@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F37C9381-67F8-4A4C-92F8-C6E85CD5792A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejercicio02/MasterDetailPage1.xaml">
+    <Files>
+      <File FileName="Ejercicio02/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="Ejercicio02/MasterDetailPage1.xaml" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ejercicio02" expanded="True">
+            <Node name="Ejercicio02" expanded="True">
+              <Node name="MasterDetailPage1.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ejercicio02.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.Ejercicio02.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
